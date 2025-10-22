@@ -1,0 +1,81 @@
+Privacy Policy for Bible Blitz
+
+Last Updated: October 18, 2025
+
+This Privacy Policy describes how Bible Blitz ("the App," "we," "us," or "our") handles your information when you use our mobile application.
+
+1. Information We DO NOT Collect or Transmit
+
+Bible Blitz is designed to be a local-first application. We do not collect, store, or transmit any personally identifiable information (PII) to our own servers. This includes, but is not limited to:
+
+Your name, email address, or phone number.
+
+Your precise GPS location.
+
+Any sensitive religious, personal, or demographic data.
+
+2. Information We Store Locally (Device Data)
+
+To provide the core quiz experience, all user data is stored securely on your local device using Expo's SecureStore (or similar local storage mechanisms). This data is essential for saving your game progress and is never accessed by us.
+
+The local data stored includes:
+
+User Profile: A local ID, chosen display name, and self-reported age (if provided during onboarding).
+
+Game Progress:
+
+XP Scores for each rank played.
+
+Current Rank and unlocked categories.
+
+Cooldown Timers for ranks that must be replayed after a failed attempt.
+
+Sound and Music settings.
+
+If you delete the App or clear its local storage, this data will be permanently lost unless you have manually backed it up.
+
+3. Third-Party Services (Advertising)
+
+Bible Blitz relies on third-party advertising services to support development and maintain the App. These services collect data to serve relevant ads.
+
+Advertising Partner: Google AdMob
+
+Data Collected by AdMob
+
+Purpose
+
+Identifiers
+
+Advertising ID (e.g., Google Ad ID), device type, IP address.
+
+Usage Data
+
+Interaction with ads (impressions, clicks), app usage time.
+
+Device Configuration
+
+Operating system (Android/iOS), language, timezone.
+
+Important Considerations:
+
+Non-Personal Data: The data collected by AdMob is typically not considered PII but rather pseudonymous identifiers used for interest-based advertising (IBA).
+
+Opt-Out: You can typically opt out of personalized advertising by adjusting your device's privacy settings (e.g., "Opt out of Ads Personalization" on Android, "Limit Ad Tracking" on iOS).
+
+Co-Existence with Gameplay: The App uses Rewarded Video Ads to allow users to skip cooldown timers. By choosing to watch a rewarded ad, you are consenting to the data practices of the advertising partner.
+
+4. Children’s Privacy
+
+Bible Blitz is intended for a general audience. We do not knowingly target or collect PII from children under the age of 13. As detailed in Section 1, we do not collect PII from any user.
+
+If you are a parent or guardian and believe your child has provided us with any form of PII, please contact us immediately, though our local-storage-only policy makes this unlikely.
+
+5. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on a dedicated website. You are advised to review this Privacy Policy periodically for any changes.
+
+6. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or your data practices, please contact us at:
+
+bibleblitzinfo@gmail.com
